@@ -1,0 +1,101 @@
+This file is here so we can add input and thoughts for this project.  Please feel free to discuss whatever about this project, that is what this file is for.  
+Initial whatever you said if you like, so that everyone knows who said what.
+
+So how do we want to do this game?  Like what is this adventure going to be like.  I have a few ideas but I want to hear what everyone else thinks first.  (GS)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+April 2, 2026  12:30ish to 1:50 pm
+Group Discussion Notes on what are game is/does
+
+10 random rooms pulled from 15 to 20 rooms in array of structs (rooms)
+
+Items: HP regen, 50hp, 25hp, 10hp different levels
+integer math for damage and health divide  by  2 or times 2 damage reduction/damage increase value a certain amount of turns
+use pointers to update hp, and monsters health
+
+
+6+ functions
+movement
+inventory
+search/reveal
+pick up
+quit/save/pause
+drop
+
+10 inventory space for user, will be an array of structs (items)
+
+summary report at the end
+
+Everyone linked Visual Studio and Github repository
+Group member input and meeting attendance: Ethan, Gary, Hayden, Jessica, and Tristan
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+April 7th, 2026
+
+uping inventory space to 20 items
+talked about how to randomized rooms and items in the rooms and the monsters in the rooms
+Capping rooms to 10 including mini boss room halfway through and final boss at final room
+
+Set items in each room, only accessable after monster is killed
+
+Custom death/game over messages, each person will create two of their own
+
+Monster will increase in difficulty after each room
+
+Discussed names for monsters - random names
+
+Jessie - story maker - makes all room and monster descriptions
+
+    Space themed story
+    different monsters are related to different types of aliens
+    each room is a different planet
+    Each planet is named after a Greek God
+    each monsters is named after a titan
+    Final Boss is Kronos
+
+Items: Oxygen increases your health by a multiplier and food will increase health by a set number
+
+Final Room is a black hole and is final boss room
+
+Mini boss room is a water world with a small island and the boss is named Polythemus
+Group attendence and input: Gary, Hayden, Jessie, Tristan
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+April 9, 2026 5:00 pm Meeting Attendance and input: Gary, Hayden, Jessie, Tristan
+
+worked on modular functions and accessing the structs of the program
+Jessie is writing the story/rooms, and general theme of the game
+Hayden worked on items and item use functions
+Tristan worked on combat function (prob the hardest, depends on the rest of functions to work properly)
+Gary worked on save and load game file functions; 5/6 user driven function; main game loop
+
+
+Made 10 random rooms, 3 items per room, 1 monster per room, testing purposes
+will add the real room data once its complete (close though)
+
+
+April 14, 2026
+
+Ethan assigned to Summary function
+We created an presentation, need to ass Ethan to the presentation
+Figuring out Name of Program/Game still
+
+need to change logic to not allow  user to skip rooms(fix)
+
+need to update to display inventory if player has no inventory
+need to fix the array function that doesnt overwtite the original values
+need to allow the user to choose with item to pickup and which slot to allow the user put it in
+
+biggest bug so far is the add/drop inventory functions
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,70 @@
+Room: Aetherion
+Desc: "The Pale Dawning World". A small, pearly-white world wrapped in sparkling clouds that drift from East to West. The surface of this planet glows like a dim candle, giving the planet a sense of pleasant warmth of an early morning.
+I:Apple|A juicy red apple.|5
+I:Apple|A juicy red apple.|5
+I:Bread|A loaf of bread.|10
+E: Luminthos|A slender humanoid with translucent skin and veins of gold that pulsate like the wick of a candle in the dead of night. It carries a dawnlight staff with a neon green egg held with 4 prongs of gold. It is less for combat and more for ceremonial purposes.|15|5|1.00
+---
+Room: Pelagora
+Desc: "The Aura of the Sea". A world of beautiful turquoise oceans that seem to hum harmonies of celestial songs. Below the water are vast coral forests of every color imaginable. 
+I:Small Oxygen Tank|A small oxygen tank.|25
+I:Apple|A juicy red apple.|5
+I:Bread|A loaf of bread.|10
+E:Okeanidron|A serpentine titan with magenta, teal, and purple scales and a crest in the center of its chest in the shape of a wave. It moves with fluidity in the water but becomes sluggish and floppy on land, almost like a fish not remembering how its legs work.|20|8|1.50
+---
+Room: Verdantis
+Desc: "The Living Grove". A lush, emerald-colored world with trees of great magnitude that sway to create winds that yell into the night. Bioluminescent spores float in the air, lighting the planet as embers of a campfire would for humans on Earth. 
+I:Meat|A piece of meat.|20
+I:Apple|A juicy red apple.|5
+I:Bread|A loaf of bread.|10
+E:Gaiaxyl|A colossal, wooden titan with tree bark armor and pine-colored, glowing eyes that seem to wait with intensity and vast-patience. The titan has the ability to command the roots and vines of the forests, creating cracking and slow movements.|35|12|3.00
+---
+Room: Pyrokratos
+Desc: "The Ember Forge". A volcanic and iron-rich world with molten rivers that stream in hues of burgundy and ember. Overhead, lightning storms crackle to illuminate the surface in fiery flashes. 
+I:Sword|A sharp steel sword.|30
+I:Armor|Sturdy leather armor.|40
+I:Small Oxygen Tank|A small oxygen tank.|25
+E:Kronfyr|A molten-skinned monster with armor plates of pure obsidian and a heart, burning like the furnace in a house. It wields a blazing scythe and can distort time briefly, giving the effect of the flicker in an unstable flame.|55|15|4.50
+---
+Room: Thalasson
+Desc: "The Sea of Islands". A deep blue, oceanic globe dotted with varying singular, deserted islands. Almost like a big chocolate chip cookie with 5 mini chocolate chips.
+I:Meat|A piece of meat.|20
+I:Small Oxygen Tank|A small oxygen tank.|25
+I:Bread|A loaf of bread.|10
+E:Cyclops|A large, single-eyed giant with a muscular, rugged build. His forehead pierced with a silver ring and grimacing facial expression.|70|20|5.50
+---
+Room: Borealune
+Desc: "The Frosted Twilight". A dim, icy world stuck in a perpetual dusk. Storms of ice crystals sweep profusely across the plans, scattering light like glass caught in a sharp breeze. 
+I:Big Oxygen Tank|A large oxygen tank.|50
+I:Armor|Reinforced armor.|60
+I:Meat|A piece of meat.|20
+E:Hyperboreon|Massive frost giant with glacier-cracked skin and a long mane of drifting snow. It channels the cold and freezes the ground beneath its feet with each step it takes.|90|28|6.50
+---
+Room: Tempestrix
+Desc: "The Shattered Sky". A storm-ridden world where islands float in the air like tufts of dandelion float after blowing it out. Here, cyclones twist across the horizon, sculpting the sky into shifting shapes.
+I:Big Oxygen Tank|A large oxygen tank.|50
+I:Sword|A balanced longsword.|70
+I:Meat|A piece of meat.|20
+E:Koios|A four-armed titan with storm-cloud skin and lightning-veined muscles. Koios can command the thunder and pressure with an arm gesture. Each strike cracking the air like a drummer would to snare.|120|32|8.00
+---
+Room: Obscuron
+Desc: "The Void Mire". A shadow-drenched world full of black marshes and hovering gray, obsidian monoliths. The sky resembles a cracked mirror, only reflecting the darkness and glimmers of the Ereboros’s victims. 
+I:Big Oxygen Tank|A large oxygen tank.|50
+I:Armor|Full plate mail.|100
+I:CAKE!!!!|A delicious cake.|50
+E:Ereboros|A shifting, shadow titan with no fixed form. Its silhouette ripples like a cloud of smoke trying to take shape. Has the ability to manipulate darkness and can create illusions of false forms to trick its victims.|160|38|10.00
+---
+Room: Tartarion
+Desc: "The Abyssal Core". A colossal, unstable planet with cracked crust which exposed oceans of magma that churn under the surface like a palpitating heartbeat. Gravity fluctuates, which tugs at everything in an uneven manner. 
+I:CAKE!!!!|A delicious cake.|50
+I:Big Oxygen Tank|A large oxygen tank.|50
+I:Big Oxygen Tank|A large oxygen tank.|50
+E:Tytanomachus| A gargantuan titan of pure magma and stone, radiating pressure like a mountain learning to breathe deeply. Has the ability to regenerate rapidly and can yield seismic power, capable of reshaping continents in seconds.|210|45|12.00
+---
+Room: Vantacrus
+Desc: "The Crossroad of Darkness". A blackhole. An invisible region of space where gravity is so powerful, only the almighty can escape Kronos’s wrath. 
+I:The Overlord's Cape|A trophy of your victory.|0
+I:Broken Scepter|It no longer holds any power.|0
+I:CAKE!!!!|The legendary reward.|0
+E:Kronos|The Final Boss. A destroyer, darker than shadows with eyes of pure fury and fire. A void of evil that even the black hole glows to expose his silhouette.|400|65|18.00
+---

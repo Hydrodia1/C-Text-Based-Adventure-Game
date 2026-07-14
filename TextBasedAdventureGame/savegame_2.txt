@@ -1,0 +1,29 @@
+PlayerName: Soth
+Health: 100
+Defense: 1
+Attack: 20
+I:Apple|A juicy red apple.|5
+I:Bread|A loaf of bread.|10
+I:Empty|Nothing here.|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+I:EMPTY|EMPTY|0
+RoomsCleared: 1
+DamageDealt: 19
+DamageTaken: 0.00
+ItemsUsed: 0
+CurrentRoomIndex: 1
